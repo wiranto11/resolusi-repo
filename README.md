@@ -1,2 +1,0 @@
-# resolusi-repo
-My resolusi
